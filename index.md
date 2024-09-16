@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to the homepage of Zhichao Xu's lab! Our group works in the field of functional genomics, cancer genetics and computational biology.
+Welcome to the homepage of Zhichao Xu's lab! Our group works in the field of functional genomics, cancer genetics and computational biology. Dr. Xu is currently on the faculty job market and expect to start his lab in spring 2025.
 
 
 
