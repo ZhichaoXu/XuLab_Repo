@@ -1,7 +1,7 @@
 ---
 ---
 
-# ZhichaoXuDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+Welcome to the homepage of Zhichao Xu's lab! Our group works in the field of functional genomics, cancer genetics and computational biology.
 
 
 
@@ -11,30 +11,7 @@
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
-
-{% capture text %}
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are interested in modeling oncogene expression near genome rearrangements and deciphering the mechanism of long-range gene regulation in human genome.
 
 {%
   include button.html
@@ -52,8 +29,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   image="images/photo.jpg"
   link="projects"
   title="Our Projects"
-  flip=true
-  style="bare"
   text=text
 %}
 
