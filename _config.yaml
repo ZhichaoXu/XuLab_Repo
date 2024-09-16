@@ -1,7 +1,7 @@
 # site properties and page defaults
 title: Functional Cancer Genomics Lab
 subtitle: 
-description: 
+description: Structural variants, 3D genome structure, and oncogene regulation
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
