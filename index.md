@@ -10,25 +10,7 @@ Welcome to the homepage of Zhichao Xu's lab! Our group works in the field of fun
 ## Highlights
 
 {% capture text %}
-
-We are interested in modeling oncogene expression near genome rearrangements and deciphering the mechanism of long-range gene regulation in human genome.
-
-{%
-  include button.html
-  link="projects"
-  text="Browse our projects"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
+We are interested in modeling oncogene expression near genome rearrangements and deciphering the mechanism of long-range gene regulation in the human genome.
+{% include button.html link="projects" text="Browse our projects" icon="fa-solid fa-arrow-right" flip=true style="bare" %}
 {% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  text=text
-%}
-
+{% include feature.html image="images/photo.jpg" link="projects" title="Our Projects" flip=false style="bare" text=text %}
