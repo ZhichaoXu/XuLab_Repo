@@ -10,4 +10,4 @@ nav:
 {% capture text %} Project 1
 
 {:.center} {% endcapture %}
-{% include feature.html image="images/projects/project1.png" headline="Modeling Enhancer Hijacking via Genome Engineering and Single-Cell Sequencing" text=text %}
+{% include feature.html image="projects/project1.png" headline="Modeling Enhancer Hijacking via Genome Engineering and Single-Cell Sequencing" text=text %}
