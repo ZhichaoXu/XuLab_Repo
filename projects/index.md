@@ -2,12 +2,12 @@
 title: Projects
 nav:
   order: 1
-  tooltip: Projects in the lab
+  tooltip: 
 ---
 
-# {% include icon.html icon="fa-solid fa-microscope" %}Projects
+# {% include icon.html icon="fa-solid fa-microscope" %}Current Projects
+{% include section.html %}
+{% capture text %} Project 1
 
-This lab is composed of a dry lab and a wet lab, focusing on two major areas within the domain of functional cancer genomics: tool development and cancer genetics.
-
-{% include figure.html image="images/tooldev.png" caption="Tool development" link="projects/tooldev" width="50%" %}{% include figure.html image="images/cancergenetics.png" caption="Cancer genetics" link="projects/genetics" width="50%" %}
-
+{:.center} {% endcapture %}
+{% include feature.html image="images/projects/project1.png" headline="Modeling Enhancer Hijacking via Genome Engineering and Single-Cell Sequencing" text=text %}
