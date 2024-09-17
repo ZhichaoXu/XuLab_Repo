@@ -1,7 +1,7 @@
 ---
 ---
 
-Welcome to the homepage of Zhichao Xu's lab! Our group works in the field of functional genomics, cancer genetics and computational biology. Dr. Xu is currently on the faculty job market and expect to start his lab in spring 2025.
+Welcome to the homepage of Zhichao Xu's lab! Dr. Zhichao Xu is currently a Senior Research Associate at the Salk Institute, San Diego. Dr. Xu is currently on the faculty job market and expect to start his independent lab in spring 2025. This laboratory in the near future will work in the field of functional genomics, cancer genetics and computational biology. 
 
 
 
