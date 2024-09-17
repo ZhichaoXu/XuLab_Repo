@@ -1,5 +1,5 @@
 
-# ZhichaoXuDESCRIPTION=An engaging 1-3 sentence description of your lab.'s Website
+# ZhichaoXu's Lab Website
 
 Visit **[zhichaoxu.github.io/XuLab_Repo](https://zhichaoxu.github.io/XuLab_Repo)** 🚀
 
