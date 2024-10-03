@@ -23,9 +23,9 @@ nav:
 ## Future projects (seeking collaborations)
 The long-term goal of this lab is to leverage our foundational discoveries in human genetics and functional genomics to generate translational insights that directly contribute to improving human health. 
 {% include section.html %}
-1. **Profiling structural variants in rare human cancers and genetic diseases.** We are very interested in identifying driver structural variants in rare human cancers and other genetic diseases, as we have experience in developing cell line models for molecular-level mechanism exploration. 
+1. **Profiling structural variants in rare human cancers and genetic diseases.** We are very interested in identifying driver structural variants in rare human cancers and other genetic diseases, as we have experience in developing cell line models for molecular-level mechanism explorations. 
 -:.center} {% endcapture %}
 
 {% include section.html %}
-2. **Model organism validation experiments.**
+2. **Elucidating oncogene dysregulation in vivo.** 
 {:.center} {% endcapture %}
