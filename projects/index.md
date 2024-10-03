@@ -6,7 +6,6 @@ nav:
 ---
 
 ## Current Projects
-{% include section.html %}
 {% capture text %} **Can we predict gene dysregulation when a nearby structural variant is observed?**
 In this project, we will explore the functional consequences of rearrangements in the human genome. We will first engineer complex rearrangements near the oncogene of interest. We will then simultaneously measure gene expression and the variant event by utilizing single-cell multi-omic sequencing, followed by computational modeling. This will first identify risky partner regions genome-wide for certain oncogenes, then generate an oncogene expression prediction model for cancer diagnosis in the future. 
 
