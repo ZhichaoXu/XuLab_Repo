@@ -19,15 +19,3 @@ nav:
 {:.center} {% endcapture %}
 {% include feature.html image="projects/project2.png" headline="Distal gene regulation" text=text %}
 
-## Future projects (seeking collaborations)
-The long-term goal of this lab is to leverage our foundational discoveries in human genetics and functional genomics to generate translational insights that directly contribute to improving human health. 
-{% include section.html %}
-1. **Profiling structural variants in rare human cancers and genetic diseases.** We are very interested in identifying driver structural variants in rare human cancers and other genetic diseases, as we have experience in developing cell line models for molecular-level mechanism explorations. New knowledge in this direction will further empower our gene expression prediction model in various contexts.
-{:.center} {% endcapture %}
-
-{% include section.html %}
-2. **Elucidating oncogene dysregulation _in vivo_.** We are looking forward to extending our discoveries in long-range gene regulation to model organisms _in vivo_.
-{:.center} {% endcapture %}
-
-2. **Elucidating oncogene dysregulation _in vivo_.** We are looking forward to extending our discoveries in long-range gene regulation to model organisms _in vivo_.
-{:.center} {% endcapture %}
