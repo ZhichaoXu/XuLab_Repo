@@ -24,8 +24,8 @@
   date: '2022-12-07'
   link: https://doi.org/gtfbz7
   orcid: 0000-0002-0532-1706
-  plugin: sources.py
-  file: sources.yaml
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.1101/gad.335794.119
   title: Dynamic regulation of histone modifications and long-range chromosomal interactions
     during postmitotic transcriptional reactivation
