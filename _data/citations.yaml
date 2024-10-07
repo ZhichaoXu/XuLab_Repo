@@ -18,12 +18,13 @@
   - Dennis J Kuo
   - Graham P McVicker
   - Jesse R Dixon
-  publisher: Cold Spring Harbor Laboratory
+  publisher: BioRxiv
   date: '2024-10-05'
   link: https://doi.org/g7dwpp
   orcid: 0000-0002-0532-1706
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
+  image: ../pdf/
 - id: doi:10.1038/s41586-022-05504-4
   title: Structural variants drive context-dependent oncogene activation in cancer
   authors:
