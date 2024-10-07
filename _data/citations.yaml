@@ -24,7 +24,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/BALLbiorxiv.png
+  image: ../pdf/BALLbiorxiv.png
 - id: doi:10.1038/s41586-022-05504-4
   title: Structural variants drive context-dependent oncogene activation in cancer
   authors:
@@ -51,7 +51,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/nature2022.png
+  image: ../pdf/nature2022.png
 - id: doi:10.1101/gad.335794.119
   title: Dynamic regulation of histone modifications and long-range chromosomal interactions
     during postmitotic transcriptional reactivation
@@ -68,7 +68,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/GD2020.png
+  image: ../pdf/GD2020.png
 - id: doi:10.1093/bfgp/elz026
   title: Genome reconstruction and haplotype phasing using chromosome conformation
     capture methodologies
@@ -81,7 +81,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/review2019.png
+  image: ../pdf/review2019.png
 - id: doi:10.1093/nar/gkx1277
   title: Genomic basis of recombination suppression in the hybrid between Caenorhabditis
     briggsae and C. nigoni
@@ -105,7 +105,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/NAR2018.png
+  image: ../pdf/NAR2018.png
 - id: doi:10.14800/rd.1492
   title: Technologies of High-Throughput Tissue-Specific Gene Expression Profiling
   authors: []
@@ -138,7 +138,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/NAR2016.png
+  image: ../pdf/NAR2016.png
 - id: doi:10.1101/2024.09.14.613043
   title: A STAG2-PAXIP1/PAGR1 axis suppresses lung tumorigenesis
   authors:
@@ -163,6 +163,6 @@
   publisher: BioRxiv
   date: '2024-09-19'
   link: https://doi.org/g7hcw4
-  image: pdf/STAG2biorxiv.png
+  image: ../pdf/STAG2biorxiv.png
   plugin: sources.py
   file: sources.yaml
