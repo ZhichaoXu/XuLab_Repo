@@ -16,3 +16,12 @@ Our goal is to build a lab rooted in diversity. Scientifically, we will integrat
   component="portrait"  
   filters="role: pi" 
 %}
+
+{% include section.html background="images/banner.jpg" dark=true%}
+
+Come join us! We encourage all to apply.
+
+{% include link.html icon="fas fa-users" text="Join the Team" link="join/" style="button" %} {:.center}
+
+{% include section.html %}
+
