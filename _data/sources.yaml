@@ -1,6 +1,8 @@
 - id: doi:10.1038/s41586-022-05504-4
   publisher: Nature
-
+  buttons:
+      - type: pdf
+        link: pdf/nature2022.pdf
 - id: doi:10.1101/gad.335794.119
   publisher: Genes &amp; Development
  
