@@ -21,7 +21,7 @@ Our goal is to build a lab rooted in diversity. Scientifically, we will integrat
 
 Come join us! We encourage all to apply.
 
-{% include link.html icon="fas fa-users" text="Join the Team" link="join/" style="button" %} {:.center}
+{% include link.html icon="fas fa-users" text="Join the Team" link="contact/" style="button" %} {:.center}
 
 {% include section.html %}
 
