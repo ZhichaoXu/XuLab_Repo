@@ -50,10 +50,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: pdf/nature2022.png
-  buttons:
-  - type: pdf
-    link: pdf/nature2022.pdf
+  image: ../pdf/nature2022.png
 - id: doi:10.1101/gad.335794.119
   title: Dynamic regulation of histone modifications and long-range chromosomal interactions
     during postmitotic transcriptional reactivation
