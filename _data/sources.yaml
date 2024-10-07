@@ -1,5 +1,6 @@
 - id: doi:10.1038/s41586-022-05504-4
   publisher: Nature
+  image: pdf/nature2022.png
   buttons:
       - type: pdf
         link: pdf/nature2022.pdf
