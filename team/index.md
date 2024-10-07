@@ -17,11 +17,11 @@ Our goal is to build a lab rooted in diversity. Scientifically, we will integrat
   filters="role: pi" 
 %}
 
-{% include section.html background="images/banner.jpg" dark=true%}
+{% include section.html dark=true %}
 
-Come join us! We encourage all to apply.
+Whether you are a scientist looking to step into an emerging field with your data, an organization interested in investing in this work, or if you are simply curious and would like to stay informed about how translational science will evolve, we welcome your partnership. We work with leading scientists around the world and are funded by large national grants and institutions with new discoveries emerging every day.
 
-{% include link.html icon="fas fa-users" text="Join the Team" link="contact/" style="button" %} {:.center}
+{% include link.html icon="fas fa-hands-helping" text="Join the Team" link="contact" style="button" %} {:.center}
 
-{% include section.html %}
+{% comment %} {% include section.html %}
 
