@@ -3,8 +3,6 @@ name: Zhichao Xu
 image: images/zhichaoxu.jpg
 role: pi
 affiliation: University of Texas
-aliases:
-  - Z. Xu
 links:
   orcid: 0000-0002-0532-1706
   email: zxu@salk.edu
