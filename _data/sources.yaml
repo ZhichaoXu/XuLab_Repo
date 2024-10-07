@@ -1,8 +1,5 @@
 - id: doi:10.1101/2024.10.04.616668
   image: ../pdf/BALLbiorxiv.png
-  buttons:
-    - type: pdf
-    link: pdf/BALLbiorxiv.pdf
   publisher: BioRxiv
       
 - id: doi:10.1101/2024.09.14.613043
