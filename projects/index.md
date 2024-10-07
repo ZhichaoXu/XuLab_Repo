@@ -9,7 +9,7 @@ nav:
 {%
   include figure.html
   image="images/diagram1.png"
-  width="100%"
+  width="80%"
 %}
 **Can we predict gene dysregulation when a nearby structural variant is observed?**
 
