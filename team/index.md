@@ -19,7 +19,7 @@ Our goal is to build a lab rooted in diversity. Scientifically, we will integrat
 
 {% include section.html background="images/banner.jpg" dark=true%}
 
-Whether you are a scientist looking to step into an emerging field with your data, an organization interested in investing in this work, or if you are simply curious and would like to stay informed about how translational science will evolve, we welcome your partnership. We work with leading scientists around the world and are funded by large national grants and institutions with new discoveries emerging every day.
+The Xu Lab is expected to open in Spring 2025 and will offer positions at all levels. Whether you are a scientist eager to explore cancer genomics and gene regulation, a PhD student seeking training in genome engineering and 3D genomics, or simply curious about participating in and learning more about research in functional genomics, we welcome your interest and collaboration.
 
 {% include link.html icon="fas fa-users" text="Join the Team" link="join/" style="button" %} {:.center}
 
