@@ -1,24 +1,24 @@
 - id: doi:10.1101/2024.10.04.616668
+  image: ../pdf/BALLbiorxiv.png  
   publisher: BioRxiv
-  image: pdf/BALLbiorxiv.png
       
 - id: doi:10.1101/2024.09.14.613043
+  image: ../pdf/STAG2biorxiv.png
   publisher: BioRxiv
-  image: pdf/STAG2biorxiv.png
 
 - id: doi:10.1038/s41586-022-05504-4
-  image: pdf/nature2022.png
+  image: ../pdf/nature2022.png
  
 - id: doi:10.1101/gad.335794.119
-  image: pdf/GD2020.png
+  image: ../pdf/GD2020.png
  
 - id: doi:10.1093/bfgp/elz026
-  image: pdf/review2019.png
+  image: ../pdf/review2019.png
 
 - id: doi:10.1093/nar/gkx1277
-  image: pdf/NAR2018.png
+  image: ../pdf/NAR2018.png
 
 - id: doi:10.14800/rd.1492
 
 - id: doi:10.1093/nar/gkw1261
-  image: pdf/NAR2016.png
+  image: ../pdf/NAR2016.png
