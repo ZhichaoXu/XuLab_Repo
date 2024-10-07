@@ -50,6 +50,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
+  image: pdf/nature2022.png
   buttons:
   - type: pdf
     link: pdf/nature2022.pdf
