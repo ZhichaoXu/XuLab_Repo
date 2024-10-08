@@ -11,6 +11,8 @@ nav:
 
 Our goal is to build a lab rooted in diversity. Scientifically, we will integrate our strengths in wet lab experiments with cutting-edge computational genomics. Culturally, we are committed to fostering an inclusive environment that values the diverse backgrounds and perspectives of all members. Looking ahead, we will support the growth of compassionate trainees and scientists, acknowledging their unique career development needs.
 
+{% include section.html %}
+
 # Ongoing Opportunities
 
 ### Staff Positions
