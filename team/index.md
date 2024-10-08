@@ -17,17 +17,16 @@ Our goal is to build a lab rooted in diversity. Scientifically, we will integrat
   filters="role: pi" 
 %}
 
-{% include section.html background="images/banner_mcgovern.jpg" dark=true%}
+{% include section.html dark=true %}
 
 The Xu Lab is expected to open in Spring 2025 and will offer positions at all levels. Whether you are a scientist eager to explore cancer genomics and gene regulation, a PhD student seeking training in genome engineering and 3D genomics, or simply curious about participating in and learning more about research in functional genomics, we welcome your interest and collaboration.
 
 {% 
   include link.html 
-  icon="fas fa-users" 
+  icon="fas fa-hands-helping"
   text="Join the Team" 
-  link="join/" 
+  link="contact"
   style="button" 
 %} 
 {:.center}
 
-{% include section.html %}
