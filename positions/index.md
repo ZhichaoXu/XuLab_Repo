@@ -25,12 +25,9 @@ We are excited to offer up to two postdoctoral positions in two distinct directi
 ### Graduate students
 We accept graduate students who have already been admitted to one of the following programs: 
 <br>
-<br>
 Genetics and Epigenetics
 <br>
-<br>
 Cancer Biology
-<br>
 <br>
 
 ### Undergraduate students
