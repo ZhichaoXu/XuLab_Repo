@@ -5,18 +5,29 @@ nav:
   tooltip: 
 ---
 
-# <i class="fas fa-users"></i>We are hiring!
+# {% include icon.html icon="fa-solid fa-hands-helping" %}Join us
 
-{% include search-info.html %}
+Our goal is to build a lab rooted in diversity. Scientifically, we will integrate our strengths in wet lab experiments with cutting-edge computational genomics. Culturally, we are committed to fostering an inclusive environment that values the diverse backgrounds and perspectives of all members. Looking ahead, we will support the growth of compassionate trainees and scientists, acknowledging their unique career development needs.
 
 {% include section.html %}
 
-Please see the [CU Careers website](https://cu.taleo.net/careersection/2/moresearch.ftl?lang=en&radiusType=K&location=4100103016&searchExpanded=true&radius=1&portal=101430233) for any recent postings.
 
-Reach out to gregory.way@cuanschutz.edu with any preliminary questions.
+# Ongoing Opportunities
 
-## PhD students
+### Staff Positions
+Up to two research assistant positions are available for both junior and senior ranks. For junior technicians, those considering graduate programs in genetics and genomics, and looking to begin their training early as graduate students, are encouraged to apply. We also welcome experienced technicians interested in helping to set up and run a new laboratory.
 
-All prospective PhD students check out [CU Anschutz](https://www.cuanschutz.edu/), in particular the [Computational Biosciences program](https://www.cuanschutz.edu/graduate-programs/computational-bioscience/home), the [Human Medical Genetics and Genomics program](https://www.cuanschutz.edu/graduate-programs/human-medical-genetics-and-genomics/home) and the [Cell Biology, Stem Cells, and Development program](https://www.cuanschutz.edu/graduate-programs/cell-biology-stem-cells-and-development/home).
+### Postdoctoral scholars
+Up
+Current funding is available for projects related to visual plasticity and optogenetic feedback control.  If you are interested our research, you are encouraged to send an inquiry and CV to [ming-fai.fong@bme.gatech.edu](mailto:ming-fai.fong@bme.gatech.edu).
 
-Reach out to gregory.way@cuanschutz.edu with any preliminary questions.
+### Graduate students
+We accept graduate students who have already been admitted to one of the following programs: 
+
+
+
+### Undergraduate students
+If you are interested in working in the lab
+
+### High school students
+We cannot accept high school students into our lab un
