@@ -16,7 +16,7 @@ Our goal is to build a lab rooted in diversity. Scientifically, we will integrat
 # Ongoing Opportunities
 
 ### Staff Positions
-Up to two research assistant positions are available for both junior and senior ranks. For junior technicians, those considering graduate programs in genetics and genomics, and looking to begin their training early as graduate students, are encouraged to apply. We also welcome experienced technicians interested in helping to set up and run a new laboratory.
+Up to two research assistant positions are available for both junior and senior ranks. For junior technicians, those considering graduate programs in genetics and genomics, and looking to begin their training early like graduate students, are encouraged to apply. We also welcome experienced technicians interested in helping to set up and run a new laboratory.
 
 ### Postdoctoral scholars
 We are excited to offer up to two postdoctoral positions in two distinct directions. For both roles, we welcome motivated, responsible scientists who have recently obtained their PhD in relevant fields and enjoy working in a collaborative team environment. If you’re passionate about making an impact in cancer genetics and genomics, we’d love to hear from you!
