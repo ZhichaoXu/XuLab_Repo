@@ -24,8 +24,14 @@ We are excited to offer up to two postdoctoral positions in two distinct directi
 
 ### Graduate students
 We accept graduate students who have already been admitted to one of the following programs: 
->Genetics and Epigenetics
->Cancer Biology
+<br>
+<br>
+Genetics and Epigenetics
+<br>
+<br>
+Cancer Biology
+<br>
+<br>
 
 ### Undergraduate students
 Our lab is open to motivated undergraduate students who would like to do summer/winter internship or work on undergraduate thesis projects. 
