@@ -25,6 +25,34 @@
   plugin: sources.py
   file: sources.yaml
   image: ../images/publications/BALLbiorxiv.png
+- id: doi:10.1101/2024.09.14.613043
+  title: A STAG2-PAXIP1/PAGR1 axis suppresses lung tumorigenesis
+  authors:
+  - Emily L Ashkin
+  - Yuning J Tang
+  - Haiqing Xu
+  - King L Hung
+  - Julia Belk
+  - Hongchen Cai
+  - Steven S Lopez
+  - Deniz Nesli Dolcen
+  - Jess D Hebert
+  - Rui Li
+  - Paloma A Ruiz
+  - Tula Keal
+  - Laura Andrejka
+  - Howard Y Chang
+  - Dmitri A Petrov
+  - Jesse R Dixon
+  - Zhichao Xu
+  - Monte M Winslow
+  publisher: BioRxiv
+  date: '2024-09-19'
+  link: https://doi.org/g7hcw4
+  orcid: 0000-0002-0532-1706
+  plugin: sources.py
+  file: sources.yaml
+  image: ../images/publications/STAG2biorxiv.png
 - id: doi:10.1038/s41586-022-05504-4
   title: Structural variants drive context-dependent oncogene activation in cancer
   authors:
@@ -139,30 +167,3 @@
   plugin: sources.py
   file: sources.yaml
   image: images/publications/NAR2016.png
-- id: doi:10.1101/2024.09.14.613043
-  title: A STAG2-PAXIP1/PAGR1 axis suppresses lung tumorigenesis
-  authors:
-  - Emily L Ashkin
-  - Yuning J Tang
-  - Haiqing Xu
-  - King L Hung
-  - Julia Belk
-  - Hongchen Cai
-  - Steven S Lopez
-  - Deniz Nesli Dolcen
-  - Jess D Hebert
-  - Rui Li
-  - Paloma A Ruiz
-  - Tula Keal
-  - Laura Andrejka
-  - Howard Y Chang
-  - Dmitri A Petrov
-  - Jesse R Dixon
-  - Zhichao Xu
-  - Monte M Winslow
-  publisher: BioRxiv
-  date: '2024-09-19'
-  link: https://doi.org/g7hcw4
-  image: ../images/publications/STAG2biorxiv.png
-  plugin: sources.py
-  file: sources.yaml
