@@ -25,7 +25,7 @@ The Xu Lab is expected to open in Spring 2025 and will offer positions at all le
   include link.html 
   icon="fas fa-hands-helping"
   text="Join the Team" 
-  link="contact"
+  link="positions"
   style="button" 
 %} 
 {:.center}
