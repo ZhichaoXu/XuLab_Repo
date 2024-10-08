@@ -24,7 +24,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/BALLbiorxiv.png
+  image: images/publications/BALLbiorxiv.png
 - id: doi:10.1101/2024.09.14.613043
   title: A STAG2-PAXIP1/PAGR1 axis suppresses lung tumorigenesis
   authors:
@@ -52,7 +52,7 @@
   orcid: 0000-0002-0532-1706
   plugin: sources.py
   file: sources.yaml
-  image: ../images/publications/STAG2biorxiv.png
+  image: images/publications/STAG2biorxiv.png
 - id: doi:10.1038/s41586-022-05504-4
   title: Structural variants drive context-dependent oncogene activation in cancer
   authors:
