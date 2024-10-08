@@ -1,6 +1,8 @@
 ---
-title: Join
-description: How to join
+title: Positions
+nav:
+  order: 4
+  tooltip: 
 ---
 
 # <i class="fas fa-users"></i>We are hiring!
