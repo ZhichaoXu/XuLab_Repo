@@ -1,9 +1,9 @@
 - id: doi:10.1101/2024.10.04.616668
-  image: ../images/publications/BALLbiorxiv.png
+  image: images/publications/BALLbiorxiv.png
   publisher: BioRxiv
 
 - id: doi:10.1101/2024.09.14.613043
-  image: ../images/publications/STAG2biorxiv.png
+  image: images/publications/STAG2biorxiv.png
   publisher: BioRxiv
 
 - id: doi:10.1038/s41586-022-05504-4
