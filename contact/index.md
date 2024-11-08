@@ -23,3 +23,16 @@ Houston, TX 77030
   style="button"
 %}
 {:.center}
+
+{% capture col1 %}
+
+{% include figure.html image="images/McGovern2.jpg" %}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{% include figure.html image="images/McGovern1.jpg" %}
+
+{% endcapture %}
+{% include cols.html col1=col1 col2=col2 %}
