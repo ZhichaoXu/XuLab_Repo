@@ -1,7 +1,7 @@
 # site properties and page defaults
-title: Functional Cancer Genomics Lab
-subtitle: 
-description: Structural variants, 3D genome structure, and oncogene regulation
+title: Xu Lab at the McGovern Medical School
+subtitle: Functional Cancer Genomics
+description: Structural variants, 3D genome architecture, and oncogene regulation
 header: images/background.png
 footer: images/footer.png
 proofer: false
