@@ -9,7 +9,7 @@ nav:
 
 Our lab is based at the [University of Texas Health Houston McGovern Medical School](https://med.uth.edu/bmb/) starting April 1, 2025.
 
-Memorial Hermann-Texas Medical Center<br/>
+McGovern Medical School at UTHealth Houston<br/>
 6431 Fannin St<br/>
 Houston, TX 77030
 
