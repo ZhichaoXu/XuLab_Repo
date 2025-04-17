@@ -2,10 +2,10 @@
 name: Zhichao Xu
 image: images/zhichaoxu.jpg
 role: pi
-affiliation: University of Texas
+affiliation: University of Texas Health Houston
 links:
   orcid: 0000-0002-0532-1706
-  email: zxu@salk.edu
+  email: zhichao.xu.1@uth.tmc.edu
   twitter: ZXuSalk
   google-scholar: 2SFdzTQAAAAJ
 ---
