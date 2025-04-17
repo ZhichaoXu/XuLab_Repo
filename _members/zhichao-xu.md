@@ -1,6 +1,6 @@
 ---
 name: Zhichao Xu
-image: images/zhichaoxu.jpg
+image: images/Xu-Zhichao-web.jpg
 role: pi
 affiliation: University of Texas Health Houston
 links:
