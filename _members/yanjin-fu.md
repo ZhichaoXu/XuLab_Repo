@@ -1,8 +1,8 @@
 ---
 name: Yanjin Fu
 image: images/yanjinfu.jpg
-role: research assistant
-description: Research Assistant
+role: ra
+description: Research Assistant II
 links:
   orcid: 0000-0002-6447-8455
   email: geminiyanjinfu@outlook.com
