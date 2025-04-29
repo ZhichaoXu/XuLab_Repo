@@ -1,6 +1,6 @@
 ---
 name: Yanjin Fu
-image: images/yanjinfu.jpg
+image: images/yanjinfu.png
 role: current-technician
 description: Research Assistant II
 links:
