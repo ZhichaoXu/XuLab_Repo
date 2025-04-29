@@ -1,7 +1,7 @@
 ---
 name: Yanjin Fu
 image: images/yanjinfu.jpg
-role: ra
+role: current-technician
 description: Research Assistant II
 links:
   orcid: 0000-0002-6447-8455
