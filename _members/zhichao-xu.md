@@ -2,7 +2,6 @@
 name: Zhichao Xu
 image: images/Xu-Zhichao-web.jpg
 role: pi
-affiliation: University of Texas Health Houston
 links:
   orcid: 0000-0002-0532-1706
   email: zhichao.xu.1@uth.tmc.edu
