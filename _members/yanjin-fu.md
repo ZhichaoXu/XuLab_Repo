@@ -5,7 +5,7 @@ role: current-technician
 description: Research Assistant II
 links:
   orcid: 0000-0002-6447-8455
-  email: geminiyanjinfu@outlook.com
+  email: yanjin.fu@uth.tmc.edu
   google-scholar: N0sp-NoAAAAJ
 ---
 
