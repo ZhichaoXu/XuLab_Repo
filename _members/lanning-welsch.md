@@ -1,7 +1,7 @@
 ---
 name: Lanning Welsch
 image: images/lanningwelsch.jpg
-role: research assistant
+role: current-technician
 description: Research Assistant
 links:
   email: lanningwelsch@gmail.com
