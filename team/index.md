@@ -33,6 +33,11 @@ The Xu Lab has started in April 2025 and offers positions at all levels. Whether
   include list.html  
   data="members"  
   component="portrait"  
+  filters="role: current-postdoc" 
+%}
+{% 
+  include list.html  
+  data="members"  
+  component="portrait"  
   filters="role: current-technician" 
 %}
-
