@@ -1,7 +1,7 @@
 ---
 name: Xiaolin Wei
 image: images/xiaolinwei.jpg
-role: Postdoctoral Fellow
+role: current-postdoc
 description: Postdoctoral Fellow
 links:
   email: xiaolin.wei@uth.tmc.edu
